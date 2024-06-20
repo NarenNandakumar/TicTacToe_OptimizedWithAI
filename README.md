@@ -10,3 +10,9 @@
   
 # Installation Prerequisites
 ### Python 3.x
+
+# Images
+![image](https://github.com/NarenNandakumar/TicTacToe_OptimizedWithAI/assets/145394757/b3243694-0615-4d4d-a779-86596407f9eb)
+
+# Author
+### Naren Nandakumar
